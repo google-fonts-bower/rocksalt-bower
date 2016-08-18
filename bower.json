@@ -1,0 +1,17 @@
+{
+    "name": "rocksalt-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/rocksalt-bower.git"
+    },
+    "description": "Rock Salt font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
